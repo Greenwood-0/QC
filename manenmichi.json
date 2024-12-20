@@ -60,7 +60,7 @@
     },
     "17": {
       "title": "Practice match",
-      "volume": "4",
+      "volume": "",
       "last_updated": "1734544634",
       "groups": {
         "Harmless Monsters": [
@@ -74,6 +74,23 @@
           "https://files.catbox.moe/qq77lk.png",
           "https://files.catbox.moe/28pi9t.png",
           "https://files.catbox.moe/zate03.png"
+        ]
+      }
+    },
+    "18": {
+      "title": "Reward",
+      "volume": "",
+      "last_updated": "1734672805",
+      "groups": {
+        "Harmless Monsters": [
+          "https://files.catbox.moe/fm2jag.png",
+          "https://files.catbox.moe/0om7so.png",
+          "https://files.catbox.moe/jsll3m.png",
+          "https://files.catbox.moe/ml1697.png",
+          "https://files.catbox.moe/1bt3ba.png",
+          "https://files.catbox.moe/fk8rys.png",
+          "https://files.catbox.moe/ogiash.png",
+          "https://files.catbox.moe/cbdefc.png"
         ]
       }
     }
