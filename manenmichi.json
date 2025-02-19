@@ -200,6 +200,21 @@
           ""
         ]
       }
+    },
+    "25": {
+      "title": "Station",
+      "volume": "",
+      "last_updated": "1739973678",
+      "groups": {
+        "Harmless Monsters": [
+          "https://files.catbox.moe/x8t368.png",
+          "https://files.catbox.moe/vvhila.png",
+          "https://files.catbox.moe/uwlud0.png",
+          "https://files.catbox.moe/09hu4r.png",
+          "https://files.catbox.moe/2bg25g.png",
+          "https://files.catbox.moe/4zc62p.png"
+        ]
+      }
     }
   }
 }
