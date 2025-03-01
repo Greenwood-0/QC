@@ -133,7 +133,7 @@
     },
     "54": {
       "title": "Dragging Hot Days",
-      "volume": "4",
+      "volume": "5",
       "last_updated": "1737731192",
       "groups": {
         "Harmless Monsters": [
@@ -151,7 +151,7 @@
     },
     "55": {
       "title": "Komaro and Ramen!",
-      "volume": "4",
+      "volume": "5",
       "last_updated": "1738247285",
       "groups": {
         "Harmless Monsters": [
@@ -169,7 +169,7 @@
     },
     "56": {
       "title": "Senpai and Kouhai",
-      "volume": "4",
+      "volume": "5",
       "last_updated": "1738855861",
       "groups": {
         "Harmless Monsters": [
@@ -187,7 +187,7 @@
     },
     "57": {
       "title": "Hisako's True Feelings",
-      "volume": "2",
+      "volume": "5",
       "last_updated": "1740203829",
       "groups": {
         "Harmless Monsters": [
@@ -200,6 +200,24 @@
           "https://files.catbox.moe/8qhtta.png",
           "https://files.catbox.moe/n6lcg6.png",
           "https://files.catbox.moe/o0169e.png"
+        ]
+      }
+    },
+    "58": {
+      "title": "Everyone's Day Off",
+      "volume": "5",
+      "last_updated": "1740848238",
+      "groups": {
+        "Harmless Monsters": [
+          "https://files.catbox.moe/yh8985.png",
+          "https://files.catbox.moe/h3kbmo.png",
+          "https://files.catbox.moe/fi8nmt.png",
+          "https://files.catbox.moe/gff2gq.png",
+          "https://files.catbox.moe/q5ykg7.png",
+          "https://files.catbox.moe/rgrb90.png",
+          "https://files.catbox.moe/8jtdec.png",
+          "https://files.catbox.moe/ibyzvs.png",
+          "https://files.catbox.moe/bbzw0x.png"
         ]
       }
     },
