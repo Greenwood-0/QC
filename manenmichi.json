@@ -270,6 +270,23 @@
         ]
       }
     },
+    "29": {
+      "title": "DVD",
+      "volume": "",
+      "last_updated": "1747336161",
+      "groups": {
+        "Harmless Monsters": [
+          "https://files.catbox.moe/xko1ti.png",
+          "https://files.catbox.moe/qb5xgy.png",
+          "https://files.catbox.moe/lsntp1.png",
+          "https://files.catbox.moe/1ex9dq.png",
+          "https://files.catbox.moe/el0ami.png",
+          "https://files.catbox.moe/qjxqr7.png",
+          "https://files.catbox.moe/9opb9b.png",
+          "https://files.catbox.moe/2h9nnj.png"
+        ]
+      }
+    },
     "19.5": {
       "title": "omake",
       "volume": "",
