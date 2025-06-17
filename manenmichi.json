@@ -321,6 +321,23 @@
         ]
       }
     },
+    "32": {
+      "title": "Charm",
+      "volume": "",
+      "last_updated": "1750180330",
+      "groups": {
+        "Harmless Monsters": [
+          "https://files.catbox.moe/lyev72.png",
+          "https://files.catbox.moe/009vld.png",
+          "https://files.catbox.moe/jvgsfm.png",
+          "https://files.catbox.moe/ux91n5.png",
+          "https://files.catbox.moe/al11t8.png",
+          "https://files.catbox.moe/z9bp8i.png",
+          "https://files.catbox.moe/zagviw.png",
+          "https://files.catbox.moe/2lcyab.png"
+        ]
+      }
+    },
     "19.5": {
       "title": "omake",
       "volume": "",
