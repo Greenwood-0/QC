@@ -355,6 +355,23 @@
         ]
       }
     },
+    "34": {
+      "title": "Size",
+      "volume": "",
+      "last_updated": "1752157886",
+      "groups": {
+        "Harmless Monsters": [
+          "https://files.catbox.moe/de9eia.png",
+          "https://files.catbox.moe/tilbx8.png",
+          "https://files.catbox.moe/ujts93.png",
+          "https://files.catbox.moe/qtmfa3.png",
+          "https://files.catbox.moe/vwixy9.png",
+          "https://files.catbox.moe/ad3t0r.png",
+          "https://files.catbox.moe/t2x1az.png",
+          "https://files.catbox.moe/iac57a.png"
+        ]
+      }
+    },
     "19.5": {
       "title": "omake",
       "volume": "",
