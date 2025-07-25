@@ -390,6 +390,23 @@
         ]
       }
     },
+    "36": {
+      "title": "Solo training",
+      "volume": "",
+      "last_updated": "1753444975",
+      "groups": {
+        "Harmless Monsters": [
+          "https://files.catbox.moe/fr693t.png",
+          "https://files.catbox.moe/emd6ly.png",
+          "https://files.catbox.moe/sepiry.png",
+          "https://files.catbox.moe/lrj76i.png",
+          "https://files.catbox.moe/gp65b5.png",
+          "https://files.catbox.moe/c32p2t.png",
+          "https://files.catbox.moe/i584sq.png",
+          "https://files.catbox.moe/vovfvl.png"
+        ]
+      }
+    },
     "19.5": {
       "title": "omake",
       "volume": "",
