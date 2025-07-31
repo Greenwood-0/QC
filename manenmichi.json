@@ -407,6 +407,28 @@
         ]
       }
     },
+    "37": {
+      "title": "Shout",
+      "volume": "",
+      "last_updated": "1753974372",
+      "groups": {
+        "Harmless Monsters": [
+          "https://files.catbox.moe/2eac4z.png",
+          "https://files.catbox.moe/3swrxe.png",
+          "https://files.catbox.moe/fv58cd.png",
+          "https://files.catbox.moe/kqnok5.png",
+          "https://files.catbox.moe/l667j5.png",
+          "https://files.catbox.moe/j5z04p.png",
+          "https://files.catbox.moe/suu85l.png",
+          "https://files.catbox.moe/faqiku.png",
+          "https://files.catbox.moe/otdq84.png",
+          "https://files.catbox.moe/l0f7ds.png",
+          "https://files.catbox.moe/2qrvxf.png",
+          "https://files.catbox.moe/nt6k98.png",
+          "https://files.catbox.moe/pb5ffe.png"
+        ]
+      }
+    },
     "19.5": {
       "title": "omake",
       "volume": "",
