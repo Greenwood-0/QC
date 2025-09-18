@@ -480,6 +480,25 @@
         ]
       }
     },
+    "41": {
+      "title": "Mosquito",
+      "volume": "",
+      "last_updated": "1758212318",
+      "groups": {
+        "Harmless Monsters": [
+          "https://i.imgur.com/UV2MsHH.png",
+          "https://i.imgur.com/81yvVHL.png",
+          "https://i.imgur.com/G6IgfRf.png",
+          "https://i.imgur.com/VyrIpPV.png",
+          "https://i.imgur.com/UGQvttt.png",
+          "https://i.imgur.com/JYd7lLX.png",
+          "https://i.imgur.com/9Q1JFiO.png",
+          "https://i.imgur.com/NwBWHdB.png",
+          "https://i.imgur.com/5Gu0wvm.png",
+          "https://i.imgur.com/7KOU5l4.png"
+        ]
+      }
+    },
     "19.5": {
       "title": "omake",
       "volume": "",
