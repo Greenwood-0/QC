@@ -304,6 +304,14 @@
           "https://i.imgur.com/AP2dCpk.png"
         ]
       }
+    },
+    "42": {
+      "title": "Rank",
+      "volume": "",
+      "last_updated": "1758735668",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgchest/chapter/pg73leq837r"
+      }
     }
   }
 }
