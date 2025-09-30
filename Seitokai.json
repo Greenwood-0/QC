@@ -403,6 +403,14 @@
           "https://i.imgur.com/9DzRLvA.png"
         ]
       }
+    },
+    "85": {
+      "title": "The Mysteries of the Body",
+      "volume": "7",
+      "last_updated": "1759252848",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgchest/chapter/o24ajzzjd4l"
+      }
     }
   }
 }
