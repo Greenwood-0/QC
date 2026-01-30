@@ -408,6 +408,14 @@
       "groups": {
         "Harmless Monsters": "/proxy/api/imgchest/chapter/9rydnjomn4k"
       }
+    },
+    "55": {
+      "title": "First pickup",
+      "volume": "",
+      "last_updated": "1769775478",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgchest/chapter/9rydn6bz64k"
+      }
     }
   }
 }
