@@ -563,10 +563,18 @@
     },
     "74": {
       "title": " Frankfurter",
-      "volume": "9",
+      "volume": "",
       "last_updated": "1792355524",
       "groups": {
         "Harmless Monsters": "/proxy/api/imgchest/chapter/lqye8g5v3yd"
+      }
+    },
+    "75": {
+      "title": "Target Toss",
+      "volume": "",
+      "last_updated": "1793297880",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgchest/chapter/dl7plw3m84o"
       }
     }
   }
