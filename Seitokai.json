@@ -596,12 +596,28 @@
         "Harmless Monsters": "/proxy/api/imgchest/chapter/dl7p3d5g34o"
       }
     },
+    "109": {
+      "title": "Various Circumstances",
+      "volume": "9",
+      "last_updated": "1794077206",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgchest/chapter/qe4gaappq4j"
+      }
+    },
     "40.5": {
       "title": "Omake",
       "volume": "3",
       "last_updated": "1761763541",
       "groups": {
         "Harmless Monsters": "/proxy/api/imgchest/chapter/ej7mavlqq7d"
+      }
+    },
+    "109.5": {
+      "title": "Various Circumstances [omake]",
+      "volume": "9",
+      "last_updated": "1794077232",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgchest/chapter/924988llbyn"
       }
     }
   }
